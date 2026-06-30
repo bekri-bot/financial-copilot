@@ -1,47 +1,49 @@
-# Abubeker Mohammed
+# Financial Copilot
 
-AI Automation Builder focused on designing **real-world operational AI systems** for organizations.
-
----
-
-## What I Build
-
-- Financial Document Intelligence Systems  
-- Invoice & Contract Automation Pipelines  
-- Workflow Automation for Organizations  
-- AI Copilots for Operational Decision Support  
+An AI-powered system that automates financial document processing for organizations.
 
 ---
 
-## Current Focus
+## Problem
 
-Building AI systems that reduce manual work in:
+Finance teams spend hours on:
 
-- Finance departments  
-- NGOs  
-- Procurement processes  
-- Document-heavy organizations  
+- Invoice processing
+- Duplicate detection
+- Approval routing
+- Budget validation
+- Audit preparation
 
 ---
 
-## Core Projects
+## Solution
 
-- Organization Intake Intelligence  
-- Workflow Intelligence System  
-- Financial Document Processing Copilot  
+An AI system that:
+
+- Extracts invoice data
+- Detects duplicates
+- Checks budget availability
+- Routes approvals
+- Flags anomalies
+- Tracks payment lifecycle
+
+---
+
+## Workflow
+
+Invoice → AI Extraction → Validation → Duplicate Check → Approval Routing → Storage
 
 ---
 
 ## Tech Stack
 
-- AI Agents (LLMs)
 - n8n Automation
-- Supabase
-- API Integrations
-- Document Processing Pipelines
+- LLM APIs
+- Supabase Database
+- REST APIs
 
 ---
 
-## Goal
+## Status
 
-Build operational AI systems that help organizations reduce manual work, improve accuracy, and scale operations.
+MVP in development
